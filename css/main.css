@@ -1,0 +1,233 @@
+body{
+    background-color:rgb(25,25,44);
+}
+flex{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.navbar{
+    margin-left: 80%;
+    margin-top: -40px;
+    color: white;
+}
+li{
+    display: inline;
+    margin-left: 10px;
+
+}
+.image{
+    align-self: center;
+    width: 50%;
+    margin-left: 20%;
+}
+.description{
+    margin-left: 400px;
+    color: white;
+}
+.get{
+    margin-left: 100px
+
+}
+
+.second-flex{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.security{
+    margin-left: 100px;
+    color: white;
+}
+.him{
+    margin-left: 50px;
+}
+.foot{
+    margin-left: 50px;
+}
+.access{
+    margin-left: 50px;
+    color: white;
+}
+.thrd-flex{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.real{
+    margin-left: 100px;
+    color: white;
+}
+.store{
+    margin-left: 80px;
+    color: white;
+}
+.study{
+    margin-left: 50px;
+}
+.big{
+    margin-left: 50px;
+}
+.fourth{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.stay{
+    margin-left: 5px;
+    
+}
+.text{
+    margin-left: 10px;
+    color: white;
+}
+.see{
+    color: turquoise;
+}
+.third-flex{
+    flex-direction: row;
+    display: flex;
+    padding-left: 100px;
+    margin-left: 10px;
+    color: white;
+}
+    
+.sixth-text{
+    margin-right: 50px;
+    box-shadow: 2px 2px 12px rgb(210, 210, 218);
+    background-color: rgb(70, 70, 107);
+    padding: 20px;
+    font-style: italic;
+}
+.seventh-text{
+    margin-right: 50px;
+   box-shadow: 2px 2px 12px rgb(168, 168, 187);
+   background-color: rgb(70, 70, 107);
+    padding: 20px;
+    font-style: italic;
+}
+.eighth-text{
+    margin-right: 50px;
+    box-shadow: 2px 2px 12px rgb(210, 210, 218);
+    background-color: rgb(70, 70, 107);
+    padding: 20px;
+    font-style: italic;
+}
+.pro{
+    border-radius: 100%;
+    margin-top: 40px;
+}
+.prof{
+    border-radius: 100%;
+    margin-top: 40px;
+}
+.profi{
+    border-radius: 100%;
+    margin-top: 40px;
+}
+.satish{
+    margin-top: -40px;
+    margin-left: 70px;
+    font-size: 10px;
+}
+.bruce{
+    margin-top: -40px;
+    margin-left: 70px;
+    font-size: 10px;
+}
+.iva{
+    margin-top: -40px;
+    margin-left: 70px;
+    font-size: 10px;
+}
+/* .access{ */
+    /* margin-left: 100px; */
+    /* text-align: center; */
+    /* background-color: rgb(18, 18, 29); */
+    /* color: white; */
+    /* margin-top: 200px; */
+    /* padding: 50px; */
+    /* width: 700px; */
+    /* margin-left: 300px; */
+    /* position: relative; */
+    /* top: 100px; */
+
+.mail {
+    border-radius: 20px;
+    color: black;
+    background-color: white;
+    padding: 7px;
+    border-style: none;
+    margin-left: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.free{
+    border-radius: 20px;
+    color: white;
+    background-color: teal;
+    padding: 7px;
+    border-style: none;
+    margin-left: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.fourth-flex{
+    display: flex;
+    color: white;
+    background-color: rgb(26, 25, 29);
+    padding: 10px;
+    margin-top: 10px;
+}
+.svg{
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.location{
+    margin-top: 40px;
+}
+.lor{
+    margin-left: 40px;
+    margin-top: -25px;
+}
+.boost{
+    margin-left: 300px;
+    box-shadow: 2px 2px 12px rgb(195, 195, 195);
+    position: relative;
+    top: 50px;
+    text-align: center;
+    width: 500px;
+}
+.face-flex{
+    display: flex;
+    margin-left: 50px;
+    margin-bottom: 200px;
+    margin-top: 100px;
+    color:blue;
+}
+.nineth-text{
+    margin-left: 80px;
+    margin-top: 180px;
+}
+.tenth-text{
+    margin-left: 80px;
+    margin-top: 170px;
+}
+.eleven-text{
+    margin-left: 950px;
+    margin-top: -170px;
+    color: white;
+}
+.phno{
+    margin-right: 20px;
+}
+.ema{
+    margin-right: 20px;
+}
+.face-flex{
+    margin-top: -150px;
+    color: white;
+    margin-left: 1000px;
+    padding: 30px;
